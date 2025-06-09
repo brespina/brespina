@@ -2,6 +2,8 @@
 
 [![Metrics](https://github.com/brespina/brespina/actions/workflows/metrics.yml/badge.svg)](https://github.com/brespina/brespina/actions/workflows/metrics.yml)
 
-![Metrics](/basic.svg)
-![Metrics](/activity.svg)
-<!-- ![Metrics](/github-metrics.svg) -->
+<picture>
+  <img align="left" width="400" src="/basic.svg" alt="Metrics">
+</picture>
+  <img align="left" width="400" src="/activity.svg" alt="Activity">
+</picture>
