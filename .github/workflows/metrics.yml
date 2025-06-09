@@ -20,8 +20,6 @@ jobs:
         with:
           filename: activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
-          template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
           config_timezone: America/Chicago
@@ -44,4 +42,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          repositories_forks: yes
