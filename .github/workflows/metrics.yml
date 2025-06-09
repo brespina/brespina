@@ -12,8 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-    # forked lowlighter/metrics repo 
-      - uses: brespina/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
